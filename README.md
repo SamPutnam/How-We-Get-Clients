@@ -13,3 +13,5 @@ How We Get Revenue
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Put%20Laser%20Focus%20The%20Outcome.png" width=900>
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Be%20Customer%20Obsessed%20And%20Let%20Other%20Less%20Good%20Products%20Educate%20The%20Market%20And%20Act%20As%20Pre%20Sales%20For%20Your%20Product%20Which%20Is%20The%20Most%20Results%20Focused%20Program.png" width=900>
+
+<img src="https://github.com/SamPutnam/Index-2018/blob/master/How%20We%20Get%20Clients.png" width=900>
